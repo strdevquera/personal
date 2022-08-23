@@ -1,0 +1,33 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher_download.webp
+SHA-256-Digest: b29drTeCXetwU67pjgeoe9k9HOedvyFgSN6YpQH4CsY=
+
+Name: AndroidManifest.xml
+SHA-256-Digest: NC22npTRtBMYlZVHh9RphzQ63bPd52jdKSqZOdUTvXY=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher_download.webp
+SHA-256-Digest: 3fdGLkV2nnNwdbFZAiEHJ9X/Fvh9SAEawVKI88l04RE=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher_download.webp
+SHA-256-Digest: r7cvdyJY7LEtUgKJ8fqu8VhmSL/GxzAxjCtZdw2z7jw=
+
+Name: SEC-INF/buildConfirm.crt
+SHA-256-Digest: KXPtZBP9ZJT4aUs4ggqLtOJUTC3FoNcQEqzF2uC25xc=
+
+Name: res/mipmap-hdpi-v4/ic_launcher_download.webp
+SHA-256-Digest: wOsrcNjgQf9R89+7Jif0cDIz2fABtnvJOp+Hv9+MsBU=
+
+Name: SEC-INF/buildinfo.xml
+SHA-256-Digest: Mg5Y3TBU7kjWcastmkCqGhhmvaLdS+NKv4ygJMptQkU=
+
+Name: resources.arsc
+SHA-256-Digest: d2jAHLGCC/AKH+SjxPE0IZdiROuFGRt1fHu++m21htI=
+
+Name: classes.dex
+SHA-256-Digest: Xq20yiDnsleg+dWROdffp9jzKVIZoZHR0kOgX5X+ao0=
+
+Name: res/mipmap-mdpi-v4/ic_launcher_download.webp
+SHA-256-Digest: Ue0qbKIap7azQb10MYU/7zAa+JPjUe0It+uu/o/HRr8=
+
